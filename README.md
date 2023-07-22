@@ -1,8 +1,8 @@
 # Welcome to My WORLD ☀️🪄🌈🌻👋
 
 - 🔭 I’m currently working on `A Remainder App`
-- 🌱 I’m currently learning `Tauri/SolidJS/ML/AI`
-- ⚡ Fun fact:
+- 🌱 I’m currently learning `Blender/ThreeJS`
+- ⚡ Fun fact: `Loading`
 
 ## 🚀 About Me
 
