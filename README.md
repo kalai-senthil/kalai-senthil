@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on `A Remainder App`
 - 🌱 I’m currently learning `Blender/ThreeJS`
-- ⚡ Fun fact: `Loading`
+- ⚡ Fun fact: `Loading..`
 
 ## 🚀 About Me
 
