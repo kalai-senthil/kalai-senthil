@@ -1,12 +1,11 @@
 # Welcome to My WORLD ☀️🪄🌈🌻👋
 
-- 🔭 I’m currently working on `A Remainder App`
-- 🌱 I’m currently learning `Blender/ThreeJS`
+- 🔭 I’m currently working on `A chrome extension`
+- 🌱 I’m currently learning `Cypress`
 - ⚡ Fun fact: `Loading..`
 
 ## 🚀 About Me
 
-I am a **developer** who is currently studying in [`Sri Manakula Vinayagar Engineering College`](https://smvec.ac.in/)(CSE) II year.
 I learn technologies that excites me the most ✨🌟 and do projects that are useful to me and also others. I would love to collaborate with others and do some awesome things.
 
 # `Me` according to `ME` ✌️
@@ -45,6 +44,7 @@ I learn technologies that excites me the most ✨🌟 and do projects that are u
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ## Want To Learn
 
